@@ -1,0 +1,9 @@
+﻿<control:CBWindow x:Class="CB_Sample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:control="clr-namespace:CB_CCL;assembly=CB-CCL"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBlock Text="Here goes the content!"/>
+    </Grid>
+</control:CBWindow>
